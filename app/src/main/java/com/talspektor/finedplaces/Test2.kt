@@ -1,4 +1,4 @@
 package com.talspektor.finedplaces
 
-class Test {
+class Test2 {
 }
