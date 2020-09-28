@@ -12,4 +12,4 @@
 /captures
 .externalNativeBuild
 .cxx
-.idea/Test2.kt
+app/src/main/java/com/talspektor/finedplaces/Tst3.kt
