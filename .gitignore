@@ -13,4 +13,4 @@
 .externalNativeBuild
 .cxx
 app/src/main/java/com/talspektor/finedplaces/Test4.kt
-C:\Users\talspektor\Fined-Places\app\src\main\java\com\talspektor\finedplaces\Keys.kt
+app/src/main/java/com/talspektor/finedplaces/Keys.kt
