@@ -1,5 +1,6 @@
 package com.talspektor.finedplaces.fragments
 
+import android.content.ContentValues.TAG
 import android.os.Bundle
 import android.util.Log
 import androidx.fragment.app.Fragment
@@ -8,6 +9,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
 import com.talspektor.finedplaces.Constants
+import com.talspektor.finedplaces.Keys
 import com.talspektor.finedplaces.R
 import com.talspektor.finedplaces.controllers.DetailsPlacesRecyclerAdapter
 import com.talspektor.finedplaces.networking.GetPlacesService
